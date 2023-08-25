@@ -12,7 +12,7 @@ FiveM 加載畫面 您只需要做幾個小步驟就可以了
 🧾可使用更新日誌🧾
 
 # 如何安裝
-1.將檔案下載下來
-2.把它放到 resources 資料夾中
-3.在resource.cfg中打上 
+1.將檔案下載下來 \n
+2.把它放到 resources 資料夾中 /n
+3.在resource.cfg中打上 /n
 ``` start m-loadingscreen ```
