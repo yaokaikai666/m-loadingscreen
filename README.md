@@ -34,4 +34,9 @@ start m-loadingscreen
 
 ## 示範
 <img src="https://i.imgur.com/95FLC1l.jpg">
+<img src="https://i.imgur.com/zxFHH29.png">
+<img src="https://i.imgur.com/JKb0oIi.jpg">
+<img src="https://i.imgur.com/3mCOUw0.jpg">
+<img src="https://i.imgur.com/ZiHFQXU.jpg">
+<img src="https://i.imgur.com/4LDWqkI.jpg">
 
