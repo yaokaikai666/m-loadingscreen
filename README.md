@@ -20,3 +20,5 @@ FiveM 加載畫面 您只需要做幾個小步驟就可以了
 ```
 start m-loadingscreen 
 ```
+
+4. 打開`config.lua`
