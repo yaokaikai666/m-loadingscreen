@@ -27,9 +27,7 @@ start m-loadingscreen
   ```
   {
         ["pressInfo"] = '按鍵資訊',
-    },
-```
-
+    }, ```
 5.打開m-loadingscreen\html\js app.js
 
 * 使用vscode 搜尋:伺服器名字 即可更改介面
