@@ -32,6 +32,12 @@ start m-loadingscreen
 
 * 使用vscode 搜尋:伺服器名字 即可更改介面
 
+## 我們的資訊(最下方有示範圖片)
+我們是來自台灣的永森集團，目前推出的單位有
+
+TWFivePD：https://discord.gg/wRuXpM7UFp
+
+永森集團Discord：https://discord.gg/jH6wTWFwVM
 ## 示範
 <img src="https://i.imgur.com/95FLC1l.jpg">
 <img src="https://i.imgur.com/zxFHH29.png">
