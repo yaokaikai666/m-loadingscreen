@@ -13,7 +13,7 @@ FiveM 加載畫面 您只需要做幾個小步驟就可以了
 
 
 # 如何安裝
-1.將檔案下載下來 .
-2.把它放到 resources 資料夾中 .
-3.在resource.cfg中打上 .
+1. 將檔案下載下來 
+2. 把它放到 resources 資料夾中 
+3. 在resource.cfg中打上 
 ``` start m-loadingscreen ```
