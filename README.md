@@ -31,3 +31,7 @@ start m-loadingscreen
 5.打開m-loadingscreen\html\js app.js
 
 * 使用vscode 搜尋:伺服器名字 即可更改介面
+
+## 示範
+https://vag.gg/proxy.php?image=https%3A%2F%2Fforum.cfx.re%2Fuploads%2Fdefault%2Foriginal%2F4X%2Fe%2Ff%2F6%2Fef68d38554351092d5dbb44f64eef215d78c43fd.jpeg&hash=de536b52973aa07062a174087a452469
+
